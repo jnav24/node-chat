@@ -14,8 +14,7 @@
     "express-jwt": "5.3.3",
     "graphql": "14.6.0",
     "jsonwebtoken": "8.5.1",
-    "mongoose": "^5.9.25",
-    "notarealdb": "0.2.2"
+    "mongoose": "^5.9.25"
   },
   "devDependencies": {
     "nodemon": "2.0.4"
